@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Django and JS  
 - 👯 I’m currently contributing to ([https://github.com/](https://github.com/OWASP-BLT/BLT))
 
+### 📊 Profile stats
+
+[![SulthanNK's github stats](https://github-readme-stats.vercel.app/api?username=Sarthak5598&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Sarthak5598/github-readme-stats)
+
 ⭐️ From [Sarthak5598](https://github.com/Sarthak5598)
